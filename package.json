@@ -1,6 +1,7 @@
 {
   "name": "cuartapp",
   "private": true,
+  "homepage": "https://github.com/nelsongm1980/TiendaApp/tree/master/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
